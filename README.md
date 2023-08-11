@@ -40,3 +40,4 @@ Teknologi yang digunakan
 
 ## Demo
 
+Link Demo bisa di Akses di : <a href="https://bit.ly/CoreSysV1" target="_blank">DEMO</a>
