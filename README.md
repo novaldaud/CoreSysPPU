@@ -6,8 +6,9 @@
 
 # Fitur
 CoreSystemPPU V.1 merupakan portal internal insan PPU yang bebasis cloud dan embeded device dengan fitur :
-- Proses Rekrutmen dan tempat penyimpanan Database pelamar :dart:
-- Portal e-learning, saat ini ada kumpulan soal Psikotes :dart:
+- Proses Rekrutmen 🎯
+- Database pelamar :dart:
+- Portal e-learning, saat ini ada kumpulan soal Psikotes disertai timer :dart:
 - Portal Informasi Internal Perusahaan :dart:
 - Perpustakaan (library) penyimpanan Peraturan Perusahaan yang interaktif :dart:
 - Layanan Help Desk bagi internal perusahaan  :dart:
