@@ -51,3 +51,7 @@ password : noval123
 Login sebagai Adminstrator
 username : admin
 password : admin@123
+
+## Lisensi
+
+MIT
