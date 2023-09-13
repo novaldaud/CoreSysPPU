@@ -41,13 +41,13 @@ Teknologi yang digunakan
 
 ## Demo
 
-Link Demo bisa di Akses di : <a href="https://bit.ly/CoreSysV1" target="_blank">DEMO</a>
+Link Demo bisa di Akses di : <a href="https://bit.ly/CoreSysV01">DEMO</a>
 
 Username dan Password
 
 Login sebagai Pengguna 
 username : noval
-password : noval123
+password : noval
 
 Login sebagai Adminstrator
 username : admin
